@@ -20,3 +20,6 @@ The script accepts 3 arguments.
 * `b` or `--bin_size` - the size of the bin for the histogram
 
 You can also get this information using `-h`.
+
+#### Example usage
+`python focal_length_statistics.py -p . --hist -b 5`
