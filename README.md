@@ -7,7 +7,7 @@ The script will read the metadata for all the JPG files inside the target direct
 ## Prerequisites
 
 * `python 3.6` or above
-* `exifread`
+* all the requirements inside requirements.txt
 
 Install all the requirements inside `requirements.txt`. You can do that by running `python -m pip install -r requirements.txt` or `runme.sh` if on linux.
 
