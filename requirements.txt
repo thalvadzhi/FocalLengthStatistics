@@ -1,1 +1,3 @@
 exifread
+matplotlib
+numpy
