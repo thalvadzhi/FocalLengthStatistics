@@ -60,3 +60,6 @@ Running the script for a collection of 1909 photos prints the following to the c
 The list is ordered by the number of photos at the given focal length.
 
 ### The histogram
+The histogram for the run above looks like this (with a bin size of 5):
+
+![](hist.jpg)
